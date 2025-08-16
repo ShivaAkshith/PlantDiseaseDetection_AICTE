@@ -1,4 +1,4 @@
-# PlantDiseaseDetection_AICTE
+# PlantDiseaseDetection
 Traning the models on plant disease classification 
 
 Dataset from :
